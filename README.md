@@ -1,4 +1,4 @@
-### My name is Chris Hartig and I am a data scienctist with a passion for data-driven decision making.
+### Data Scientist with a passion for analytical, data-driven decision-making. Experienced at creating data regression models, using predictive data modeling, and analyzing data mining algorithms to deliver insights. Outside of work I love traveling, watching basketball, and listening to audio books. 
 
 ### - 🔭 I’m currently working on a cross-functional project that identifies potential instances of police use of force across the United States of America for Human Rights First, an independent advocacy and action organization. 
 ### - 🌱 I’m currently in a data science program at Lambda School
